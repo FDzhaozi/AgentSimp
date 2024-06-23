@@ -1,11 +1,7 @@
-<div align="center">
-  <img src="imgs/github.png" alt="Logo" width="200">
-</div>
-
 <h2 align="center">AgentSimp: A Multi-Agent Framework for Document Simplification</h2>
 
 
-## MAPS
+## AgentSimp
 
 **Motivation**
 
